@@ -36,6 +36,7 @@
 
 <div class="row">
     <div class="col-xs-2"></div>
+
     <div class="col-xs-8">
         <div id="content">
 
@@ -45,6 +46,7 @@
 
         </div>
     </div>
+
     <div class="col-xs-2"></div>
 </div>
 

@@ -1,4 +1,5 @@
 <?php
+
 return [
     'db.name' => 'fbase',
     'db.user' => 'admin',
