@@ -1,6 +1,6 @@
 <?php
 
-// alex here you must include config
+$config = include_once "../../config/config.php";
 
 function dbConnect (array $config)
 {
