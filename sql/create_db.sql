@@ -1,1 +1,2 @@
-// here you data
+CREATE DATABASE fbase;
+
