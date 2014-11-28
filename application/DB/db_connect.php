@@ -1,5 +1,7 @@
 <?php
 
+// alex here you must include config
+
 function dbConnect (array $config)
 {
     try {

@@ -1,2 +1,3 @@
-// hi here index
-// werwolf
+<?php
+
+echo "hello world";
