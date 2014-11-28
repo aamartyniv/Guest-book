@@ -1,3 +1,5 @@
 <?php
 
-echo "hello here index";
+include_once "/view/home.php";
+?>
+home are inlude
